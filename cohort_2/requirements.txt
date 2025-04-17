@@ -26,10 +26,12 @@ requests>=2.32.3
 scikit-learn>=1.6.0
 instructor==1.7.2
 seaborn>=0.13.2
-sentence-transformers==3.1.1
+sentence-transformers==4.1.0
 streamlit>=1.40.1
 streamlit-shortcuts>=0.1.9
 tantivy>=0.22.0
 transformers==4.45.2 
 eval_type_backport==0.2.2
 docling==2.25.0
+pylance>=0.25.2
+rerankers>=0.9.1
